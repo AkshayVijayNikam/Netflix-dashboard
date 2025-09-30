@@ -112,5 +112,5 @@ The data used for this dashboard includes:
 ## 📷 Dashboard Preview
 Below is a preview of the dashboard created in Power BI:
 
-https://tinyurl.com/AkshayNetflixDashboard
+https://github.com/AkshayVijayNikam/Netflix-dashboard/blob/main/Overview.png
 
