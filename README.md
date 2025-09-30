@@ -112,11 +112,5 @@ The data used for this dashboard includes:
 ## 📷 Dashboard Preview
 Below is a preview of the dashboard created in Power BI:
 
-![Netflix Dashboard](netflix_dashboard.png)
+https://tinyurl.com/AkshayNetflixDashboard
 
----
-
-## 🚀 How to Use
-1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/your-username/netflix-dashboard.git
